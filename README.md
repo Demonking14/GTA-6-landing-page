@@ -18,9 +18,6 @@ This is a visually immersive, animated landing page inspired by Grand Theft Auto
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Remix Icon](https://remixicon.com/)
 
-## 🖼️ Preview
-
-![Preview Screenshot](.\public\preview.png) <!-- Replace with your actual screenshot if available -->
 
 ## 📂 Folder Structure
 
