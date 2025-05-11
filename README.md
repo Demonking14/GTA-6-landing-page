@@ -1,12 +1,63 @@
-# React + Vite
+# 🎮 GTA 6 Landing Page Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a visually immersive, animated landing page inspired by Grand Theft Auto 6 (GTA 6), built using **React**, **GSAP**, and modern front-end design principles.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎬 **SVG Mask Animation** — Stylish entry animation revealing "VI" logo using GSAP and SVG masking.
+- 🌀 **Parallax Landing Page** — Smooth transitions and layered images that respond to cursor movement.
+- 🧭 **Scroll-Based Navigation Control** — Dynamic visibility of bottom navigation elements based on scroll position.
+- 🖼️ **Responsive Design** — Fully responsive layout across desktop and mobile devices.
+- 📝 **PC Requirements Section** — Displays minimum and recommended specs for playing GTA 6.
+- 📦 **Organized Structure** — Clean code structure using React Hooks and `useRef`, `useEffect`, and `useGSAP`.
 
-## Expanding the ESLint configuration
+## 🧰 Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React.js](https://reactjs.org/)
+- [GSAP (GreenSock)](https://greensock.com/gsap/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Remix Icon](https://remixicon.com/)
+
+## 🖼️ Preview
+
+![Preview Screenshot](./preview.jpg) <!-- Replace with your actual screenshot if available -->
+
+## 📂 Folder Structure
+
+/public
+├─ bg.png
+├─ sky.png
+├─ girlbg.png
+├─ ps5.png
+├─ imag.png
+└─ logo18.png
+
+/src
+├─ App.jsx
+└─ index.js
+
+
+## 📦 How to Run
+
+```bash
+# Clone this repository
+git clone https://github.com/your-username/gta6-landing-page.git
+
+# Go into the project directory
+cd gta6-landing-page
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev 
+```
+🔧 Customization
+Add your own images inside the /public folder.
+
+Update character or background visuals by replacing girlbg.png, bg.png, etc.
+
+Add more sections like trailer embeds, release dates, or a contact form.
+
+📜 License
+This project is for educational and portfolio use only. GTA and Rockstar Games logos and assets are trademarks of Rockstar Games.
