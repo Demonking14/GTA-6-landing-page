@@ -20,7 +20,7 @@ This is a visually immersive, animated landing page inspired by Grand Theft Auto
 
 ## 🖼️ Preview
 
-![Preview Screenshot](./preview.png) <!-- Replace with your actual screenshot if available -->
+![Preview Screenshot](.\public\preview.png) <!-- Replace with your actual screenshot if available -->
 
 ## 📂 Folder Structure
 
